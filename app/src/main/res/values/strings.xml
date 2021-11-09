@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lembretes</string>
+
+    <string name="txtMenuConfig">Config.</string>
+    <string name="txtMenuHelp">Ajuda</string>
+
+    <string name="txtLabelEditNome">Como gostaria de ser chamado(a)?</string>
+    <string name="txtLabelSwitchEconomiaDados">Economia de dados</string>
+    <string name="txtLabelSwitchTemaEscuro">Tema Escuro</string>
+    <string name="txtButtonSalvarConfigs">Salvar</string>
+
+    <string name="txtConfsGravadas">Configurações salvas</string>
+
+</resources>
