@@ -11,4 +11,12 @@
 
     <string name="txtConfsGravadas">Configurações salvas</string>
 
+    <string name="txtTitleMainActivity">Seus lembretes</string>
+    <string name="txtBtnNewLembrete">Novo Lembrete</string>
+
+    <string name="txtLabelLembrete">Lembrete:</string>
+    <string name="txtLabelDataLimite">Data Limite:</string>
+    <string name="txtLabelPrioridade">Prioridade:</string>
+    <string name="txtBtnSelecionarData">Selecionar</string>
+
 </resources>
